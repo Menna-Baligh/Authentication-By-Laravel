@@ -42,3 +42,7 @@ A simple authentication system built with Laravel, featuring login, logout, regi
 - Session security with `regenerate()`/`invalidate()`.
 - Blade templating rocks!
 
+
+## Templates I Used In My Views
+- [404 Page](https://codepen.io/vineethtrv/pen/NRzNLz)
+
