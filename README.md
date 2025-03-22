@@ -46,7 +46,6 @@ A simple authentication system built with Laravel, featuring login, logout, regi
 
 This project is my first experience implementing authentication with Laravel. While there are ready-made packages like **Breeze** and **Jetstream** that many developers use, I wanted to build it from scratch first to gain a deeper understanding of how authentication works in Laravel.
 
-By taking this approach, I was able to explore the fundamental concepts behind authentication, such as user registration, login, and session management. This hands-on experience gave me a solid foundation before working with authentication packages in the future.
 ---
 ## Templates I Used In My Views
 - [404 Page](https://codepen.io/vineethtrv/pen/NRzNLz)
