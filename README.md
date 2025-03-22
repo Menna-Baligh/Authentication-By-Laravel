@@ -45,4 +45,4 @@ A simple authentication system built with Laravel, featuring login, logout, regi
 
 ## Templates I Used In My Views
 - [404 Page](https://codepen.io/vineethtrv/pen/NRzNLz)
-
+- [Auth Pages](https://colorlib.com/wp/template/login-form-07/)
